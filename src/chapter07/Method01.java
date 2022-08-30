@@ -5,6 +5,6 @@ public class Method01 {
 
     }
 }
-class Person{
+class Person1{
 
 }
